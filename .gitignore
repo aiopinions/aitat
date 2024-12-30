@@ -5,3 +5,6 @@ target
 node_modules
 test-ledger
 .yarn
+/banking-agent/node_modules
+/banking-agent/dist
+/banking-agent/.env 
